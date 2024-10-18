@@ -1,0 +1,25 @@
+ENDGOAL:
+
+I want to gather information on favorite players
+
+user logs in and inputs favorite players for any sport (basketball, soccer, baseball, football, hockey)
+
+web api to player stats and populate season and carrer averages(webapi,fantasy sites)
+
+store data in database that is always populated
+send weekly updates via email on favorite players
+expand to maybe 3-5 favorite players
+pipeline
+
+
+
+-------------------------------------------------------------------
+START:
+-use poetry db org [GET https://poetrydb.org/author/Ernest] 
+-local python sqldb for login and storage (will save to a output file everyday)
+-add 1 to poem linecount everyday and have pipeline verify(script)
+-weekly email to db users if opted in
+
+------------
+Data visualization
+-compare db users information using charts and graphs

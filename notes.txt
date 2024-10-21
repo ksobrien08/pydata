@@ -1,5 +1,3 @@
-ENDGOAL:
-
 I want to gather information on favorite players
 
 user logs in and inputs favorite players for any sport (basketball, soccer, baseball, football, hockey)
@@ -11,15 +9,11 @@ send weekly updates via email on favorite players
 expand to maybe 3-5 favorite players
 pipeline
 
+--------------------------------------------------------------------------------------
+4
 
+-Research:
+--password strength
+--what people look for when they attempt to hack someones password
+--how we can have a tool generate passwords based off of criteria
 
--------------------------------------------------------------------
-START:
--use poetry db org [GET https://poetrydb.org/author/Ernest] 
--local python sqldb for login and storage (will save to a output file everyday)
--add 1 to poem linecount everyday and have pipeline verify(script)
--weekly email to db users if opted in
-
-------------
-Data visualization
--compare db users information using charts and graphs

@@ -5,9 +5,9 @@ user logs in and inputs favorite players for any sport (basketball, soccer, base
 web api to player stats and populate season and carrer averages(webapi,fantasy sites)
 
 store data in database that is always populated
-send weekly updates via email on favorite players
+send daily/weekly updates via email on favorite players
 expand to maybe 3-5 favorite players
-pipeline
+pipeline to update db
 
 --------------------------------------------------------------------------------------
 4

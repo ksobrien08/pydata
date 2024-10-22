@@ -11,6 +11,9 @@ https://github.com/datasets/nba/blob/main/docs/nba_api.md
 # with pd.option_context('display.max_columns', None):
 #     print(player_bio.get_data_frames()[0])
 
+import pybaseball
+import nfl_data_py
+import pyfootball
 """
 
 
@@ -38,6 +41,6 @@ def main():
     print(get_player_stats(name))
     print(get_player_bio(name))
 
-    
+
 if __name__ == "__main__":
     main()

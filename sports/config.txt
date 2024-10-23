@@ -1,0 +1,5 @@
+source box_env/bin/activate
+
+python 13.0
+
+pip3 install pandas
